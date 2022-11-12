@@ -1,0 +1,25 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+  }/*# sourceMappingURL=reset.css.map */
+
+  body {
+    background: linear-gradient(to top, #F2F2F2, #EEEEEE, #34B3F1, #2B88D9, #3084F2);
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+
+  header {
+    background: color #f2f2f2;
+    width: 100%;
+    display: grid;
+    border: #D91122;
+    border-style: solid;
+    min-width: 250px;
+  }
+
+  h1{
+    background-color: cornflowerblue;
+  }
